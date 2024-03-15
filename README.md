@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning "Software Engineering & AI".
 - 💞️ I’m looking to collaborate on "Leverage open source content".
 - 📫 How to reach me "aRa.toham@gmail.com".
-- 😄 Pronouns: "He".
+- 😄 Pronouns: "He/Him".
 - ⚡ Fun fact: ...
 
 <!---
